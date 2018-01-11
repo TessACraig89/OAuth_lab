@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "^1.0.1",
+    "express": "^4.0.0",
+    "express-session": "^1.0.4",
+    "hbs": "^4.0.0",
+    "method-override": "^1.0.2",
+    "mongoose": "4.1.1",
+    "mongoose-findorcreate": "^2.0.0",
+    "morgan": "~1.0.0",
+    "passport": "^0.2.2",
+    "passport-google-oauth": "^0.1.5",
+    "passport-oauth": "^1.0.0"
+  }
+}
